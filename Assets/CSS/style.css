@@ -1,0 +1,13 @@
+@charset "utf-8";
+#header {background-image: url("https://i.pinimg.com/originals/e4/60/02/e4600281eef9bb44ed0d4c2d77f6f0db.png");
+height:300px;
+background-repeat: no-repeat;
+text-align: center;
+width: 1000px;
+margin: 0 auto;
+color: #83d9b0;
+font-size: 50px;
+font-family: fantasy;
+line-height: 200px;
+
+}
